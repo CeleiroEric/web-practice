@@ -21,3 +21,6 @@ Objetivo: practicar diseño de landing pages, navegación con `<nav>`, listas `<
 
 ## Registration-form-JS
 En proceso, pagina web que simula un formulario de registro con validacion JavaScript.
+
+**Carpeta:** [registration-form-JS](./registration-form-JS)      
+**Link-web:** [registration-form-JS](https://celeiroeric.github.io/web-practice/registration-form-JS/)     
