@@ -5,8 +5,8 @@ Colección de páginas web creadas con HTML y CSS como práctica para mejorar mi
 
 ## Personal-website
 Mi página personal creada usando HTML y CSS básico.  
-En ella se presenta información sobre mí, mis habilidades, enlaces a GitHub y un formulario de contacto de prueba(no envía información todavía).  
-Objetivo: practicar estructura semántica de HTML y estilos CSS.
+En ella se presenta información sobre mí, mis habilidades, enlaces a GitHub y un formulario de contacto de muestra (no envía información).  
+Objetivo: Practicar estructura semántica de HTML y estilos CSS.
 
 **Carpeta:** [personal-website](./personal-website)  
 **Link-web:**  [personal-website](https://celeiroeric.github.io/web-practice/personal-website/)
@@ -14,13 +14,15 @@ Objetivo: practicar estructura semántica de HTML y estilos CSS.
 ## Landing Page Practice
 Página web que simula una landing page de una empresa ficticia.  
 Incluye secciones de "Sobre nosotros", "Servicios" y "Contacto".  
-Objetivo: practicar diseño de landing pages, navegación con `<nav>`, listas `<ul>`, secciones `<section>` y CSS.
+Objetivo: Practicar diseño de landing pages, navegación con `<nav>`, listas `<ul>`, secciones `<section>` y CSS.
 
 **Carpeta:** [landing-page-practice](./landing-page-practice)       
 **Link-web:**  [landing-page-practice](https://celeiroeric.github.io/web-practice/landing-page-practice/)
 
 ## Registration-form-JS
-En proceso, pagina web que simula un formulario de registro con validacion JavaScript.
+Pagina web que simula un formulario de registro interactivo con validación avanzada en JavaScript.
+Incluye validaciones y feedback visual.
+Objetivo: Practicar la manipulación del DOM, gestión de eventos de formulario (submit), lógica de validación y expresiones regulares.
 
-**Carpeta:** [registration-form-JS](./registration-form-JS)      
+**Carpeta:** [registration-form-JS](./registration-form-JS)      x
 **Link-web:** [registration-form-JS](https://celeiroeric.github.io/web-practice/registration-form-JS/)     
