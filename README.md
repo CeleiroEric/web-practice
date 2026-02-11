@@ -25,4 +25,7 @@ Incluye validaciones y feedback visual.
 Objetivo: Practicar la manipulación del DOM, gestión de eventos de formulario (submit), lógica de validación y expresiones regulares.
 
 **Carpeta:** [registration-form-JS](./registration-form-JS)      x
-**Link-web:** [registration-form-JS](https://celeiroeric.github.io/web-practice/registration-form-JS/)     
+**Link-web:** [registration-form-JS](https://celeiroeric.github.io/web-practice/registration-form-JS/)   
+
+## Interactive-media-gallery
+En proceso.
